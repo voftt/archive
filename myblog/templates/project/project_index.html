@@ -13,7 +13,7 @@
                     <div class="card-inner">
                         <a href="{% url 'project:detail' item.id %}">
                             <div class="card-img">
-                                <img src="{{ item.image.url }}" alt="{{ item.title }}" width="300px">
+                                <img src="{{ st}}" alt="{{ item.title }}" width="300px">
                             </div>
                             <div class="card-title">
                                 <p>{{ item.title }}</p>
@@ -28,4 +28,3 @@
 </section>
 <!--end project-->
 {% endblock %}
-출처: https://zodlab.tistory.com/112?category=699316 [조드군의 일상:티스토리]

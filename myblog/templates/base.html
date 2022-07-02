@@ -3,11 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css">
+
+
 
     {% load static %}
-    <link rel="stylesheet" href="{% static 'css/reset.css' %}">
     <link rel="stylesheet" href="{% static 'css/style.css' %}">
+
 
     {% block title %}
     <title>MAIN</title>
@@ -18,11 +19,11 @@
         <!-- header -->
         <header id="header">
             <div class="inner">
-                <h1 class="logo"><a href="{% url 'project:index' %}">logo</a></h1>
+                <h1 class="logo"><img src="/static/images/logo.png">하잉</a></h1>
                 <nav class="nav">
                     <ul>
-                        <li><a href="{% url 'project:index' %}">프로젝트</a></li>
-                        <li><a href="#!">블로그</a></li>
+                        <li><a href="{% url 'project:index' %}">base화면1</a></li>
+                        <li><a href="#!">베이스화면2</a></li>
                     </ul>
                 </nav>
             </div>
@@ -35,3 +36,21 @@
     <script src="{% static 'js/main.js' %}"></script>
 </body>
 </html>
+
+<!-- templates/base.html -->
+
+	<header id="header">
+            <div class="inner">
+                <h1 class="logo"><a href="{% url 'project:index' %}">
+                    <img src="/static/images/logo.png">
+                </a></h1>
+                <nav class="nav">
+                    <ul>
+                        <li><a href="{% url 'project:index' %}">프로젝트</a></li>
+                        <li><a href="{% url 'blog:index' %}">블로그</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+
