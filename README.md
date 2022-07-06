@@ -2,11 +2,11 @@
 
 
 
-## 📗
+## 📗공부사이트
 * https://www.w3schools.com/
 
 
-## 📗개발 활용 가능 자료
+## 📗활용가능자료
 * https://unsplash.com/
 
 
