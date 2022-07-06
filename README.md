@@ -2,7 +2,7 @@
 
 
 
-## 📗도움이 되는 사이트
+## 📗
 * https://www.w3schools.com/
 
 
