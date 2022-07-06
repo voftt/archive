@@ -7,13 +7,7 @@
 
 
 ## 📗개발 활용 가능 자료
-* :news https://unsplash.com/
+* https://unsplash.com/
 
 
 
-
-
-
->>e e w qe
->> ewwewev
-📗
