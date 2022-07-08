@@ -6,7 +6,8 @@
 * https://www.w3schools.com/ 웹기초
 * https://tutorial.djangogirls.org/ 장고기초 
 * https://opentutorials.org/course/1 생활코딩
-
+* https://wikidocs.net/ 온라인책
+* https://www.boostcourse.org/opencourse 부스트코스(무료강의)
 
 ## 📗활용가능자료
 * https://unsplash.com/ 무료사진
