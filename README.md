@@ -3,8 +3,8 @@
 
 
 ## 📖
-* https://www.w3schools.com/ 웹기초
-* https://tutorial.djangogirls.org/ 장고기초 
+* https://www.w3schools.com/ 
+* https://tutorial.djangogirls.org/ 장고걸스
 * https://opentutorials.org/course/1 생활코딩
 * https://wikidocs.net/ 온라인책
 * https://www.boostcourse.org/opencourse 부스트코스(무료강의)
@@ -12,6 +12,7 @@
 ## 📗활용가능자료
 * https://unsplash.com/ 무료사진
 * https://getbootstrap.com/ 
+* https://get.foundation/
 
 
 ## 📙읽어보기
