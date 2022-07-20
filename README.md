@@ -28,3 +28,4 @@
 
 * [HTML](https://github.com/voftt/mygarage/blob/master/archive/HTML.md)
 * [CSS](https://github.com/voftt/mygarage/blob/master/archive/CSS.md)
+* [JavaScript](https://github.com/voftt/mygarage/blob/master/archive/JS.md)
