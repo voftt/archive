@@ -8,7 +8,7 @@
 * https://opentutorials.org/course/1 생활코딩
 * https://wikidocs.net/ 온라인책
 * https://www.boostcourse.org/opencourse 부스트코스(무료강의)
-* https://book.vanillacoding.co/starter-kit/ 
+* https://book.vanillacoding.co/starter-kit/ HTML,CSS,JS 기본기(강추)
 
 ## 📗활용가능자료
 * https://unsplash.com/ 
