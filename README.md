@@ -24,6 +24,7 @@
 * https://docs.djangoproject.com/en/4.0/contents/ Django 
 * https://www.django-rest-framework.org/ DRF
 * https://ccbv.co.uk/ 
+* https://www.markdownguide.org/basic-syntax / 마크다운
 ### myGarage
 
 * [HTML](https://github.com/voftt/mygarage/blob/master/archive/HTML.md)
